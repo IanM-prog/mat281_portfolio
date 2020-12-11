@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#homework2
+homeworks/hwk02.ipynb
+
 # C extensions
 *.so
 
